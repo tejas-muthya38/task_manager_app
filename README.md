@@ -154,12 +154,17 @@ flutter run -d chrome
 
 ## 📸 Screenshots
 
-*(Add screenshots here before submission)*
+### 🔐 Login Screen
+![Login](assets/screenshots/login-screen.png)
 
-* Login Screen
-* Task Dashboard
-* Add/Edit Task
-* Timer UI
+### 🏠 Home Screen
+![Home](assets/screenshots/task-list.png)
+
+### ➕ Add Task
+![Add Task](assets/screenshots/add-task.png)
+
+### ⏱️ Edit Task
+![Timer](assets/screenshots/edit-task.png)
 
 ---
 
